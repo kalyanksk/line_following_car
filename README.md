@@ -12,3 +12,8 @@ Visual Follow Line exercise of Robotics Academy (https://jderobot.github.io/Robo
 5. The code can be uploaded using load file option or can be copied to the text editor.
 
 6. Press the load in robot option and click play to start the simulation.
+
+Here is the demo video!
+
+https://github.com/kalyanksk/line_following_robot/assets/94881228/489c2828-36cb-4faa-b28a-45d7206322cd
+
